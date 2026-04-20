@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774906091181,
+      "tag": "0000_many_nightshade",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774906329484,
+      "tag": "0001_young_amazoness",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1774977082077,
+      "tag": "0002_smiling_frog_thor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1745100000000,
+      "tag": "0003_add_iswork_field",
+      "breakpoints": true
+    }
+  ]
+}
