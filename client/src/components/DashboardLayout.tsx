@@ -173,6 +173,9 @@ function DashboardLayoutContent({
                   <span className="font-semibold tracking-tight truncate">
                     Navigation
                   </span>
+                  <span className="rounded-full border border-primary/30 bg-primary/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.18em] text-primary">
+                    Dev Mode
+                  </span>
                 </div>
               ) : null}
             </div>
